@@ -54,6 +54,15 @@
 也是可以的
 
 
+结束后，输入下列命令   
+`git add -A`    
+`git commit -a`  
+在git commit文件中写入commit信息，保存，   也可以执行一下test   
+`make test`  
+看看通过的测试
+
+![day01_05](/photos/day01_05.png)
+
 ### 其余进度
 
 - [x] 完成3个exercises
