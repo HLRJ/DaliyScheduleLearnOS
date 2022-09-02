@@ -10,7 +10,7 @@
 
 在生成的github链接上，找到code，也就是平时我们经常去git clone的那个链接的部分，不过这次有特殊的选项，就是 `codespace` ，如下图所示
 
-![day01_00](/photos/day01_00.png)
+![day01_00](/photos/day01/day01_00.png)
 
 但是在 `sudo make codespaces_setenv`  后并没有正常执行完全，
 大概是这个样子:
@@ -32,17 +32,17 @@
 
 输入 `rustlings watch` 将会显示通过测试的练习，如图示
 
-![day01_01](/photos/day01_01.png)
+![day01_01](/photos/day01/day01_01.png)
 
 删除注释里面的 `I AM NOT DONE` 则第一个练习通过
 
-![day01_02](/photos/day01_02.png)
+![day01_02](/photos/day01/day01_02.png)
 
 如若获取提示，可以新建一个终端
 再执行 `rustlings hint ***`
 如 `rustlings hint functions1`
 
-![day01_03](/photos/day01_03.png)
+![day01_03](/photos/day01/day01_03.png)
 
 提示 Add an argument after the format string.
 
@@ -61,7 +61,7 @@
 `make test`  
 看看通过的测试
 
-![day01_05](/photos/day01_05.png)
+![day01_05](/photos/day01/day01_05.png)
 
 ### 其余进度
 
@@ -75,7 +75,7 @@
 | if        | 
 | quiz1     |
 
-![day01_04](/photos/day01_04.png)
+![day01_04](/photos/day01/day01_04.png)
 
 ### 收获
 
