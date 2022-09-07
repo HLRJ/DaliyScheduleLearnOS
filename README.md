@@ -8,4 +8,5 @@
 [2022年9月2日  day02](/DaliySchedule/Day02.md)  
 [2022年9月3日  day03](/DaliySchedule/Day03.md)   
 [2022年9月4日  day04](/DaliySchedule/Day04.md)  
-[2022年9月5日  day04](/DaliySchedule/Day05.md)  
+[2022年9月5日  day05](/DaliySchedule/Day05.md)   
+[2022年9月6日  day06](/DaliySchedule/Day06.md)  
