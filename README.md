@@ -11,3 +11,4 @@
 [2022年9月5日  day05](/DaliySchedule/Day05.md)   
 [2022年9月6日  day06](/DaliySchedule/Day06.md)  
 [2022年9月11日  day07](/DaliySchedule/Day07.md)  
+[2022年9月12日  day07](/DaliySchedule/Day08.md)
